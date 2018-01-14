@@ -9,6 +9,10 @@
 - ws ( https://github.com/websockets/ws )
 
 ## 安装
+安装淘宝镜像 npm
 > npm install -g cnpm --registry=https://registry.npm.taobao.org
- cnpm install --save ws
-![](http://oega8z2v1.bkt.clouddn.com/Jietu20180114-174921.gif)
+安装 ws 模块
+> cnpm install --save ws
+
+## 演示
+![](http://oega8z2v1.bkt.clouddn.com/1.gif)
