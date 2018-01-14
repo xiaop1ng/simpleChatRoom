@@ -10,6 +10,5 @@
 
 ## 安装
 > npm install -g cnpm --registry=https://registry.npm.taobao.org
-
-> cnpm install --save ws
+ cnpm install --save ws
 
