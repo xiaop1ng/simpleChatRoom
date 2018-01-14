@@ -9,6 +9,6 @@
 - ws ( https://github.com/websockets/ws )
 
 ## 安装
->npm install -g cnpm --registry=https://registry.npm.taobao.org
->cnpm install --save ws
+> npm install -g cnpm --registry=https://registry.npm.taobao.org
+> cnpm install --save ws
 
