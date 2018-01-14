@@ -11,4 +11,4 @@
 ## 安装
 > npm install -g cnpm --registry=https://registry.npm.taobao.org
  cnpm install --save ws
-
+![](http://oega8z2v1.bkt.clouddn.com/Jietu20180114-174921.gif)
