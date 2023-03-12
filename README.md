@@ -15,4 +15,4 @@
 > cnpm install --save ws
 
 ## 演示
-![](http://oega8z2v1.bkt.clouddn.com/1.gif)
+![](https://img-blog.csdn.net/20180725141222334?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3hpYW9waW5nMDkxNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
